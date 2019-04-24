@@ -1,0 +1,5 @@
+0	INCR	&X, &Y, &REG
+1	MOVER	#2, #0
+2	ADD	#2, #1
+3	MOVEM	#2, #0
+4	MEND
